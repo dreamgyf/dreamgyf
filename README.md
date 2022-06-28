@@ -1,4 +1,4 @@
-## 👋 Hi, I'm dream，An Android developer.
+## 👋 Hi, I'm dream, An Android developer.
 
 - 📝This is my tech blog. 👉 [<img align="center" src="https://img.shields.io/badge/掘金-9cf" alt="掘金" />](https://juejin.cn/user/501033033793543/posts) 👈 这是我的技术博客 
 
